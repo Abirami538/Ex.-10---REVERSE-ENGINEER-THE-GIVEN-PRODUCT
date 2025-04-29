@@ -33,10 +33,14 @@
 ## Input:
 
 ### Output:
+![Screenshot 2025-04-29 095555](https://github.com/user-attachments/assets/7c0acc38-15e0-4ce8-b2f8-554be8b12de7)
+![Screenshot 2025-04-29 095655](https://github.com/user-attachments/assets/bba4fc44-3eda-4211-ab58-ece406991afa)
 
 
-### Name:
-### Register Number:
+
+
+### Name:A.ABIRAMI
+### Register Number:212224040010
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
